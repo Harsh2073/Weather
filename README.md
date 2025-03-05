@@ -16,6 +16,6 @@ Weather API:https://openweathermap.org/api
 - Python
 - OpenWeatherMap API
 
-  # 📸 Screenshots
+# 📸 Screenshots
 
-  ![Weather](https://github.com/user-attachments/assets/e41be827-85b1-4eff-89a9-73660e8f4235)
+![Weather](https://github.com/user-attachments/assets/e41be827-85b1-4eff-89a9-73660e8f4235)
